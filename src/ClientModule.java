@@ -1,6 +1,6 @@
 public class ClientModule {
     public static void main(String args[]){
-        Employee peggy = new Employee(1,"peggy","accoutnig",true);
+        Employee peggy = new Employee(1,"Suzzy","accoutnig",true);
         ClientModule.hireNewEmployee(peggy);
         printEmployeeReport(peggy, FormatType.XML);
     }
