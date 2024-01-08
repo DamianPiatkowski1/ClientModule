@@ -1,5 +1,5 @@
-## Spis treści
-* [Informacje ogólne](#general-informations)
+## Contents
+* [General Informations](#general-informations)
 * [Technologies](#technologies)
 * [Configuration](#configuration)
 
