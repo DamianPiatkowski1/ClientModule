@@ -9,5 +9,7 @@ This project is a simple client module. Using the client module, you can add hos
 ## Technologies
 Project is created with:
 * Java 20
+* IntelliJ Idea
 	
 ## Configuration
+The project can be opened using GitHub Desktop. To download the file, expand the Code tab, select the Open with GitHub Desktop option, in the newly opened GitHub Dskopt window, select the Clone option. We open the project using JetBrains IntelliJ Idea.
